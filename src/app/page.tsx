@@ -318,4 +318,4 @@ export default function HomePage() {
     </div>
   );
 }
-```[cite: 2]
+[cite: 2]
